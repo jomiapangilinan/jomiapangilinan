@@ -4,9 +4,9 @@
 
 <p align="center"> <a href="https://twitter.com/seventhmiachan" target="blank"><img src="https://img.shields.io/twitter/follow/seventhmiachan?logo=twitter&style=for-the-badge" alt="seventhmiachan" /></a> </p>
 
-- 🌱 **Cognitive architectures, UX design, and critical pedagogy**
+- 🌱 **Cognitive architectures, design, critical pedagogy**
 
-- 👩🏽‍💻 **I co lead [Google DSC YU](connect.lassonde.yorku.ca/dsc)**
+- 👩🏽‍💻 **Previously @ [Google DSC YU](connect.lassonde.yorku.ca/dsc)**
 
 - 📫 **Mapping niche sentimental things @ miaxpangilinan@gmail.com**
 
